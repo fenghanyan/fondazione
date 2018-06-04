@@ -1,2 +1,1 @@
-# fondazione
-for practice
+## init my base project
